@@ -5,11 +5,8 @@ Este proyecto es un sitio web alojado en GitHub Pages que presenta carátulas de
 ## Estructura del Proyecto
 
 ```
-my-github-pages
-├── ebook-data
-│   └── caratula1.jpg
-├── index.html
-└── README.md
+index.html
+README.md
 ```
 
 ### Archivos
